@@ -1,4 +1,9 @@
 <h1 align="center">akikohatsune</h1>
+
+<p align="center">
+  <img src="miku.jpg" alt="simplekick" width="360">
+</p>
+
 <p align="center">
   miku-mode: on · playful build lab · ship small things that work
 </p>
