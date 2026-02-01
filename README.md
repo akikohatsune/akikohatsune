@@ -32,11 +32,10 @@ tip: pin the repos you like most so visitors see them first.
 
 ## stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akikohatsune&show_icons=true&hide_title=true&cache_seconds=86400" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=akikohatsune" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akikohatsune&layout=compact&langs_count=8&cache_seconds=86400" />
-</p>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=akikohatsune"</p>
 
 ## contact
 - https://komekokomi.id.vn
