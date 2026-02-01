@@ -16,7 +16,7 @@
 ---
 
 ## about
-hello. i’m AkikoC:\ but sometimes i answer to “hey miku”.
+hello. i’m Kome but sometimes i answer to “hey miku”.
 i build tiny tools, automate the boring parts, and keep projects neat enough to reuse.
 if it looks like a joke project, it probably still has a checklist.
 
