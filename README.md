@@ -29,7 +29,6 @@ if it looks like a joke project, it probably still has a checklist.
 ## setlist (projects)
 - autoban-clone: discord moderation bot experiments (ban/kick, logs, rules)
 - simplekick: small discord utilities
-- nuoi-lucifer: typescript project
 - luatxt: lua utilities
 - onion-domaincustom: notes/experiments around custom onion naming
 
