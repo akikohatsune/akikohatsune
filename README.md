@@ -28,8 +28,6 @@ if it looks like a joke project, it probably still has a checklist.
 - luatxt: lua utilities
 - onion-domaincustom: notes/experiments around custom onion naming
 
-tip: pin the repos you like most so visitors see them first.
-
 ## stats
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=akikohatsune" />
