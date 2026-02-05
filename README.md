@@ -1,4 +1,4 @@
-<h1 align="center">akikohatsune</h1>
+<h1 align="center">akikohatsune "HyperText Miku Language!"</h1>
 
 <p align="center">
   <img src="miku.jpg" alt="simplekick" width="360">
