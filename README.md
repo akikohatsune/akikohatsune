@@ -49,3 +49,11 @@ if it looks like a joke project, it probably still has a checklist.
 <p align="center">
   <sub>miku says: compile the fun. ship the result.</sub>
 </p>
+
+<p align="center">
+  <img src="pearto.png" alt="teto in pear" width="240">
+</p>
+
+<p align="center">
+  <sub>teto word of the day: pearto!</sub>
+</p>
