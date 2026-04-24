@@ -29,7 +29,7 @@ if it looks like a joke project, it probably still has a checklist.
 ## setlist (projects)
 - autoban-clone: discord moderation bot experiments (ban/kick, logs, rules)
 - simplekick: small discord utilities
-- luatxt: lua utilities
+- MikuMaid_reborn: API ai chat + bot Discord = Discord bot using AI roleplay
 - onion-domaincustom: notes/experiments around custom onion naming
 
 ## stats
