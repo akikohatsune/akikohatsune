@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://ayanomi.io.vn">ayanomi.io.vn</a> ·
-  <a href="https://www.facebook.com/koikishu32">fb/koikishu32</a>
+  <a href="https://www.facebook.com/koikishu32">fb/koikishu32</a> ·
   <a>discord: ayanomidot_</a>
 </p>
 
