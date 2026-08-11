@@ -40,9 +40,8 @@ if it looks like a joke project, it probably still has a checklist.
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=akikohatsune"</p>
 
 ## contact
-- https://komekokomi.id.vn
+- https://ayanomi.io.vn
 - https://www.facebook.com/koikishu32
-- alt: LumineFederator
 
 ---
 
